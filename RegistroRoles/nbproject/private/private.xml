@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/lab/RegistroRoles/src/java/mx/edu/ipn/cecyt9/edusite/controller/LoginServlet.java</file>
+            <file>file:/D:/lab/RegistroRoles/web/jsp/LoginJsp.jsp</file>
+            <file>file:/D:/lab/RegistroRoles/src/java/mx/edu/ipn/cecyt9/edusite/model/UsuarioClase.java</file>
+            <file>file:/D:/lab/RegistroRoles/web/IndexJsp.jsp</file>
+            <file>file:/D:/lab/RegistroRoles/src/java/mx/edu/ipn/cecyt9/edusite/model/RolClase.java</file>
+            <file>file:/D:/lab/RegistroRoles/src/java/mx/edu/ipn/cecyt9/edusite/utils/ConexionClase.java</file>
+            <file>file:/D:/lab/RegistroRoles/web/jsp/RegistroJsp.jsp</file>
+        </group>
+    </open-files>
+</project-private>
